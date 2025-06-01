@@ -1,0 +1,26 @@
+[
+    {
+        "id_libro": "010101",
+        "titulo": "El Principito",
+        "autor": " Antoine de Saint-Exupéry",
+        "anio": "1943",
+        "categoria": " Literatura fantástica",
+        "disponible": true
+    },
+    {
+        "id_libro": "010102",
+        "titulo": "wv",
+        "autor": "vsr",
+        "anio": "123",
+        "categoria": "vsda",
+        "disponible": true
+    },
+    {
+        "id_libro": "123",
+        "titulo": "jwbowe",
+        "autor": "sufoa",
+        "anio": "123",
+        "categoria": "sdvpon",
+        "disponible": true
+    }
+]
